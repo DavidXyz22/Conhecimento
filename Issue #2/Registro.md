@@ -27,4 +27,25 @@ Betting Table é uma reunião realizada após o ciclos, para decidir o que será
 "Show Progress"
 
 Aborda os grafícos de colinas que ajudam a gerência a ter uma noção do progresso da equipe no projeto.
-Além disso, Fala sobre
+Além disso, é dito para que foque em si mesmo, pensando de forma própria.
+
+"Hand Over Resposibility"
+
+Trabalho em equipe e responsabilidades em um projeto, sem que haja uma sobrecarga nos funcionários.
+
+# GIT
+
+No tutorial do GIT aprendi diversos comandos e suas definições a partir de Tasks. Como ex, 
+Branches: Permitem que você trabalhe em diferentes versões do seu projeto simultaneamente. A branch principal é geralmente chamada de main.
+GIT tem como foco para os desenvolvedores acompanharem suas alterações nos códigos ao longo do tempo.
+Além disso, o GIT fornece um sistema ótimo para trabalhar em equipe, já que cada desenvolvedores tem uma cópia do repositório, facilitando
+o processo de alterações no código. Sendo apenas dar um comando "push" para atualizar o repositório.
+
+# GITHUB
+
+O GitHub é uma plataforma de hospedagem de código que utiliza o Git como sistema de controle de versão. Ele permite que desenvolvedores armazenem,
+compartilhem e colaborem em projetos de software de forma eficaz. Alem disso, serve como a rede social para Devs, podendo avaliar códigos, projetos e etc.
+
+Algumas funcionalidades:
+"Issues" que é um sistema para gerenciar tarefas, bugs e etc; 
+"Repositórios": lugar onde o código e o histórico de alterações são armazenados.
