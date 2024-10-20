@@ -49,3 +49,5 @@ compartilhem e colaborem em projetos de software de forma eficaz. Alem disso, se
 Algumas funcionalidades:
 "Issues" que é um sistema para gerenciar tarefas, bugs e etc; 
 "Repositórios": lugar onde o código e o histórico de alterações são armazenados.
+"Pull requests": Os desenvolvedores podem enviar "pull requests" para sugerir alterações. Outros membros da equipe podem revisar o código, discutir mudanças e, finalmente, 
+integrar as alterações ao projeto principal.
