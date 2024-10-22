@@ -35,11 +35,16 @@ Trabalho em equipe e responsabilidades em um projeto, sem que haja uma sobrecarg
 
 # GIT
 
-No tutorial do GIT aprendi diversos comandos e suas definições a partir de Tasks. Como ex, 
-Branches: Permitem que você trabalhe em diferentes versões do seu projeto simultaneamente. A branch principal é geralmente chamada de main.
-GIT tem como foco para os desenvolvedores acompanharem suas alterações nos códigos ao longo do tempo.
+No tutorial do GIT aprendi diversos comandos e suas definições a partir de Tasks. Como ex,
+git init: Inicializa um novo repositório Git.
+git clone: Copia um repositório existente.
+git add: Adiciona alterações ao índice para o próximo commit.
+git commit: Salva as alterações no repositório.
+git push: Envia as alterações para um repositório remoto.
+git pull: Atualiza o repositório local com mudanças do remoto.
+
 Além disso, o GIT fornece um sistema ótimo para trabalhar em equipe, já que cada desenvolvedores tem uma cópia do repositório, facilitando
-o processo de alterações no código. Sendo apenas dar um comando "push" para atualizar o repositório.
+o processo de alterações no código. Sendo apenas dar um comando "push" para atualizar o repositório. Vale ressaltar, O Git armazena um histórico completo de todas as alterações, permitindo que os desenvolvedores revisitem versões anteriores do código e compreendam a evolução do projeto.
 
 # GITHUB
 
