@@ -6,7 +6,7 @@
 
 ## O que é a forma de organização "Johnny Decimal"
 
-O método Johnny Decimal é uma abordagem para organização de informações e documentos que facilita a busca e a classificação de arquivos. Ele combina um sistema numérico com categorias, tornando mais fácil localizar e identificar documentos. Aqui estão os principais elementos do método:
+O método Johnny Decimal é uma abordagem para organização de informações e documentos que facilita a busca e a classificação de arquivos. Ele combina um sistema numérico com categorias, tornando mais fácil localizar e identificar documentos.
 
 # Estrutura do Sistema
 
