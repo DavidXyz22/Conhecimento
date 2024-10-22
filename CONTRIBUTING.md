@@ -26,11 +26,11 @@ O método Johnny Decimal é uma abordagem para organização de informações e 
 
 ## Por que utilizei essa forma de organização?
 
-**Eficiência na Busca de Informações**
+**Eficiência na Busca de Informações**:
 A estrutura numérica e categórica facilita a localização rápida de documentos. Com um sistema claro, você pode economizar tempo ao procurar arquivos.
 
-**Redução da Confusão**
+**Redução da Confusão**:
 Com muitos documentos, pode ser fácil perder-se em pastas e arquivos. O método fornece uma lógica que torna a organização mais intuitiva, ajudando a evitar a desordem.
 
-**Flexibilidade e Escalabilidade**
+**Flexibilidade e Escalabilidade**:
 O sistema pode ser adaptado conforme suas necessidades crescem. Você pode facilmente adicionar novas categorias ou itens sem comprometer a estrutura existente.
