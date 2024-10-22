@@ -1,0 +1,1 @@
+![Sem título-2024-10-22-1455](https://github.com/user-attachments/assets/22db7dc8-0d58-4564-9661-38a0875db797)
