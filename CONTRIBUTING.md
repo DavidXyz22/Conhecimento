@@ -4,11 +4,11 @@
  Como é possível verificar na pasta "Issue 2" sendo o formato do file em .MD para melhor
  entendimento do que está sendo escrito naquele arquivo, estarei descrevendo o conteúdo em formas de tópicos e de forma breve.
 
-## O que é a forma de organização "Johnny Decimal"
+# O que é a forma de organização "Johnny Decimal"
 
 O método Johnny Decimal é uma abordagem para organização de informações e documentos que facilita a busca e a classificação de arquivos. Ele combina um sistema numérico com categorias, tornando mais fácil localizar e identificar documentos.
 
-# Estrutura do Sistema
+## Estrutura do Sistema
 
 **Números de Categoria**: O método divide a informação em 10 categorias principais, cada uma identificada por um número de 00 a 90.
 
@@ -16,7 +16,7 @@ O método Johnny Decimal é uma abordagem para organização de informações e 
 
 **Números de Subitem**: Se necessário, você pode adicionar subitens, usando uma notação decimal.
 
-# Vantagens
+## Vantagens
 
 **Facilidade de Busca**: O sistema numérico permite que você encontre rapidamente o que precisa.
 
@@ -24,7 +24,7 @@ O método Johnny Decimal é uma abordagem para organização de informações e 
 
 **Flexibilidade**: Você pode adaptar o sistema conforme suas necessidades.
 
-## Por que utilizei essa forma de organização?
+# Por que utilizei essa forma de organização?
 
 **Eficiência na Busca de Informações**:
 A estrutura numérica e categórica facilita a localização rápida de documentos. Com um sistema claro, você pode economizar tempo ao procurar arquivos.
