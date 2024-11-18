@@ -1,20 +1,24 @@
 # Conhecimento
 
- Para melhorar a forma de organização foi realizado a criação de pastas referentes a cada issue tendo como base a forma de organização "Johnny Decimal".
- Como é possível verificar na pasta "Issue 2" sendo o formato do file em .MD para melhor
+ Para melhorar a forma de organização foi realizado a criação de pastas com a "ID" e termos recorrentes tendo como base a forma de organização [Johnny Decimal](https://johnnydecimal.com/),
+ e [Digital Garden](https://maggieappleton.com/garden-history)
+ Como é possível verificar na pastas criadas sendo o formato do file em .MD para melhor
  entendimento do que está sendo escrito naquele arquivo, estarei descrevendo o conteúdo em formas de tópicos e de forma breve.
 
 # O que é a forma de organização "Johnny Decimal"
 
 O método Johnny Decimal é uma abordagem para organização de informações e documentos que facilita a busca e a classificação de arquivos. Ele combina um sistema numérico com categorias, tornando mais fácil localizar e identificar documentos.
 
+# O que é a forma de organização "Digital Garden"
+é uma forma de organizar e compartilhar pensamentos, ideias, aprendizados e conhecimentos de forma pública, mas com uma abordagem mais aberta e contínua do que um blog tradicional.
+
 ## Estrutura do Sistema
 
-**Números de Categoria**: O método divide a informação em 10 categorias principais, cada uma identificada por um número de 00 a 90.
+**Numero na pasta**: Estarei numerando as pastas e criando outras pastas conforme a demanda.
+**Numero nos .MD**: O sistema que estou criando no presente momento visa colocar o "ID" de cada issue no início do file, como ex: Issue 1; 1.1 Shape-up
+Issue 2; 2.1 Git, 2.2 Github
+**Nome da pasta**: com base no "Digital Garden" colocarei os nomes das pastas conforme assunstos recorrentes ex: Livros
 
-**Números de Item**: Dentro de cada categoria, você pode ter até 10 itens. Isso significa que você pode ter itens numerados de 0 a 9.
-
-**Números de Subitem**: Se necessário, você pode adicionar subitens, usando uma notação decimal.
 
 ## Vantagens
 
@@ -22,15 +26,3 @@ O método Johnny Decimal é uma abordagem para organização de informações e 
 
 **Organização Clara**: As categorias e subcategorias tornam a estrutura lógica e fácil de entender.
 
-**Flexibilidade**: Você pode adaptar o sistema conforme suas necessidades.
-
-# Por que utilizei essa forma de organização?
-
-**Eficiência na Busca de Informações**:
-A estrutura numérica e categórica facilita a localização rápida de documentos. Com um sistema claro, você pode economizar tempo ao procurar arquivos.
-
-**Redução da Confusão**:
-Com muitos documentos, pode ser fácil perder-se em pastas e arquivos. O método fornece uma lógica que torna a organização mais intuitiva, ajudando a evitar a desordem.
-
-**Flexibilidade e Escalabilidade**:
-O sistema pode ser adaptado conforme suas necessidades crescem. Você pode facilmente adicionar novas categorias ou itens sem comprometer a estrutura existente.
